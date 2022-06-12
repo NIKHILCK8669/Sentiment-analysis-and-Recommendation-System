@@ -29,6 +29,7 @@ docutils==0.17.1
 domdf-python-tools==3.3.0
 eradicate==2.1.0
 filelock==3.7.1
+nltk
 flake8==4.0.1
 flake8-2020==1.6.1
 flake8-aaa==0.12.2
